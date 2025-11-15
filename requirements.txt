@@ -1,0 +1,9 @@
+Flask
+flask-mysqldb
+gunicorn
+mysqlclient
+PyMySQL
+werkzeug
+itsdangerous
+Jinja2
+click
